@@ -1,8 +1,8 @@
 # Sobre mim
 
-"Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) na Unifor e cursando programação Full Stack na 
+"Estudante de Análise e Desenvolvimento de Sistemas (5º semestre) na Unifor e cursando programação Full Stack na 
 Infinity School. Experiência prática em CSS, HTML e JavaScript. Atualmente, atuo como estagiário de programação no setor 
-de Educação a Distância da Unifor, desenvolvendo soluções para otimização de plataformas digitais."
+de Educação a Distância da Unifor, ajudando a desenvolver soluções para otimização de plataformas digitais."
 
 # Tecnologias
 
